@@ -2,5 +2,9 @@
   {
     "type": "mail_recipient",
     "term": "christo@dothorse.horse"
+  },
+  {
+    "type": "mail_recipient",
+    "term": "hadi@syrianarchive.org"
   }
 ]
