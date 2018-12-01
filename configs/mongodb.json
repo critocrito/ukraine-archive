@@ -1,5 +1,6 @@
 {
   "mongodb": {
-    "uri": "mongodb://localhost:27017/sugarcube"
+    "uri": "mongodb://localhost:27017/ukraine-archive",
+    "from_uri": "mongodb://localhost:27017/archive-scaffold-source"
   }
 }
